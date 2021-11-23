@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SarthakGiri32
-- 👀 I’m interested in Data Science and Python
-- 🌱 I’m currently learning IT Automation using Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently working for Wipro Ltd. as a Project Engineer
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/sarthak-g-1a596398/)
 
 <!---
